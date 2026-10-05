@@ -4,6 +4,10 @@ A time-capsule web app for a physical home. Past and present residents leave pho
 
 **MVP:** no address verification, no IP checks, no authentication.
 
+**Project page:** https://andresblitz.com/projects/home-history/
+
+**Author:** [Andrés Blitz](https://andresblitz.com/) · [@andresblitz](https://x.com/andresblitz)
+
 ## Stack
 
 - Next.js (App Router) + TypeScript + Tailwind CSS
